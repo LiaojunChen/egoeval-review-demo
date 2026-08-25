@@ -1,0 +1,29 @@
+{
+  "episode_count": 20,
+  "files": {
+    "data": "review.json",
+    "html": "index.html",
+    "media": "media/"
+  },
+  "metric_ids": [
+    "V1",
+    "V2",
+    "M1",
+    "M2",
+    "M3",
+    "M4",
+    "C1",
+    "C2",
+    "C3",
+    "X1",
+    "X2",
+    "X3",
+    "X4",
+    "X5"
+  ],
+  "schema_version": "1.0",
+  "sources": [
+    "egodex_20_results"
+  ],
+  "title": "EgoEval 20 Episode Review Demo"
+}
