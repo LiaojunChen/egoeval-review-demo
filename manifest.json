@@ -8,8 +8,9 @@
     "vote_items": "vote_items.json"
   },
   "media": {
-    "mode": "omitted",
-    "reason": "raw audit videos exceed GitHub Pages limits"
+    "encoding": "h264-180p-crf35-faststart",
+    "mode": "compressed-mp4",
+    "reason": "原始视频经低码率转码后按 episode 按需加载"
   },
   "metric_ids": [
     "C1",
@@ -20,8 +21,8 @@
     "M4"
   ],
   "pages_package": {
-    "file_count": 726,
-    "total_bytes": 37967455
+    "file_count": 1086,
+    "total_bytes": 143625033
   },
   "schema_version": "1.2",
   "sources": [
