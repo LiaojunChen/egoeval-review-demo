@@ -1,5 +1,5 @@
 {
-  "episode_count": 360,
+  "episode_count": 246,
   "files": {
     "data": "review.json",
     "episode_data": "episodes/",
@@ -8,9 +8,9 @@
     "vote_items": "vote_items.json"
   },
   "media": {
-    "encoding": "h264-180p-crf35-faststart",
+    "encoding": "h264-300p-crf30-faststart",
     "mode": "compressed-mp4",
-    "reason": "原始视频经低码率转码后按 episode 按需加载"
+    "reason": "短视频按 episode 懒加载；超过 4 分钟的视频改为每 30 秒窗口展示 8 帧"
   },
   "metric_ids": [
     "C1",
@@ -21,8 +21,8 @@
     "M4"
   ],
   "pages_package": {
-    "file_count": 1086,
-    "total_bytes": 143625033
+    "file_count": 4130,
+    "total_bytes": 654552128
   },
   "schema_version": "1.2",
   "sources": [
