@@ -33,7 +33,7 @@
         "percentile_start": 0,
         "requested_count": 20,
         "selected_count": 20,
-        "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+        "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
         "selection_id": "l4",
         "selection_label": "纯 L4",
         "shortfall": 0,
@@ -332,7 +332,7 @@
         "percentile_start": 0,
         "requested_count": 20,
         "selected_count": 20,
-        "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+        "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
         "selection_id": "tail_0_5_non_l4",
         "selection_label": "倒数 0-5%，非 L4",
         "shortfall": 0,
@@ -631,7 +631,7 @@
         "percentile_start": 0,
         "requested_count": 20,
         "selected_count": 20,
-        "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+        "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
         "selection_id": "tail_0_10_non_l4",
         "selection_label": "倒数 0-10%，非 L4",
         "shortfall": 0,
@@ -930,7 +930,7 @@
         "percentile_start": 0,
         "requested_count": 20,
         "selected_count": 20,
-        "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+        "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
         "selection_id": "l0",
         "selection_label": "纯 L0",
         "shortfall": 0,
@@ -1229,7 +1229,7 @@
         "percentile_start": 0,
         "requested_count": 20,
         "selected_count": 0,
-        "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+        "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
         "selection_id": "l4",
         "selection_label": "纯 L4",
         "shortfall": 20,
@@ -1247,7 +1247,7 @@
         "percentile_start": 0,
         "requested_count": 20,
         "selected_count": 20,
-        "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+        "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
         "selection_id": "tail_0_5_non_l4",
         "selection_label": "倒数 0-5%，非 L4",
         "shortfall": 0,
@@ -1546,7 +1546,7 @@
         "percentile_start": 0,
         "requested_count": 20,
         "selected_count": 20,
-        "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+        "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
         "selection_id": "tail_0_10_non_l4",
         "selection_label": "倒数 0-10%，非 L4",
         "shortfall": 0,
@@ -1845,7 +1845,7 @@
         "percentile_start": 0,
         "requested_count": 20,
         "selected_count": 20,
-        "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+        "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
         "selection_id": "l0",
         "selection_label": "纯 L0",
         "shortfall": 0,
@@ -2144,7 +2144,7 @@
         "percentile_start": 0,
         "requested_count": 20,
         "selected_count": 0,
-        "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+        "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
         "selection_id": "l4",
         "selection_label": "纯 L4",
         "shortfall": 20,
@@ -2162,7 +2162,7 @@
         "percentile_start": 0,
         "requested_count": 20,
         "selected_count": 20,
-        "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+        "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
         "selection_id": "tail_0_5_non_l4",
         "selection_label": "倒数 0-5%，非 L4",
         "shortfall": 0,
@@ -2461,7 +2461,7 @@
         "percentile_start": 0,
         "requested_count": 20,
         "selected_count": 20,
-        "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+        "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
         "selection_id": "tail_0_10_non_l4",
         "selection_label": "倒数 0-10%，非 L4",
         "shortfall": 0,
@@ -2760,7 +2760,7 @@
         "percentile_start": 0,
         "requested_count": 20,
         "selected_count": 20,
-        "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+        "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
         "selection_id": "l0",
         "selection_label": "纯 L0",
         "shortfall": 0,
@@ -3059,7 +3059,7 @@
         "percentile_start": 0,
         "requested_count": 20,
         "selected_count": 2,
-        "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+        "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
         "selection_id": "l4",
         "selection_label": "纯 L4",
         "shortfall": 18,
@@ -3106,7 +3106,7 @@
         "percentile_start": 0,
         "requested_count": 20,
         "selected_count": 20,
-        "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+        "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
         "selection_id": "tail_0_5_non_l4",
         "selection_label": "倒数 0-5%，非 L4",
         "shortfall": 0,
@@ -3405,7 +3405,7 @@
         "percentile_start": 0,
         "requested_count": 20,
         "selected_count": 20,
-        "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+        "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
         "selection_id": "tail_0_10_non_l4",
         "selection_label": "倒数 0-10%，非 L4",
         "shortfall": 0,
@@ -3704,7 +3704,7 @@
         "percentile_start": 0,
         "requested_count": 20,
         "selected_count": 20,
-        "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+        "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
         "selection_id": "l0",
         "selection_label": "纯 L0",
         "shortfall": 0,
@@ -4003,7 +4003,7 @@
         "percentile_start": 0,
         "requested_count": 20,
         "selected_count": 20,
-        "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+        "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
         "selection_id": "l4",
         "selection_label": "纯 L4",
         "shortfall": 0,
@@ -4302,7 +4302,7 @@
         "percentile_start": 0,
         "requested_count": 20,
         "selected_count": 0,
-        "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+        "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
         "selection_id": "tail_0_5_non_l4",
         "selection_label": "倒数 0-5%，非 L4",
         "shortfall": 20,
@@ -4320,7 +4320,7 @@
         "percentile_start": 0,
         "requested_count": 20,
         "selected_count": 0,
-        "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+        "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
         "selection_id": "tail_0_10_non_l4",
         "selection_label": "倒数 0-10%，非 L4",
         "shortfall": 20,
@@ -4338,7 +4338,7 @@
         "percentile_start": 0,
         "requested_count": 20,
         "selected_count": 0,
-        "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+        "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
         "selection_id": "l0",
         "selection_label": "纯 L0",
         "shortfall": 20,
@@ -4374,7 +4374,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.0,
           "rank": 1,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.12444444
@@ -4433,7 +4433,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.0167,
           "rank": 2,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.12048193
@@ -4448,7 +4448,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 96.3142,
           "rank": 5776,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -4507,7 +4507,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.0334,
           "rank": 3,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.10980392
@@ -4566,7 +4566,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.1501,
           "rank": 10,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.01939925
@@ -4625,7 +4625,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.2001,
           "rank": 13,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.01522843
@@ -4684,7 +4684,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.2168,
           "rank": 14,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.01507185
@@ -4743,7 +4743,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.4503,
           "rank": 28,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.00884956
@@ -4802,7 +4802,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.5003,
           "rank": 31,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.00840336
@@ -4817,7 +4817,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 6.2072,
           "rank": 373,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -4876,7 +4876,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.7338,
           "rank": 45,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.00592926
@@ -4935,7 +4935,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.8839,
           "rank": 54,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.00525959
@@ -4988,7 +4988,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.3009,
           "rank": 79,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.00410584
@@ -5003,7 +5003,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.0345,
           "rank": 63,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -5018,7 +5018,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.0345,
           "rank": 63,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -5071,7 +5071,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.3175,
           "rank": 80,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.00385505
@@ -5124,7 +5124,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.5177,
           "rank": 92,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.00339079
@@ -5177,7 +5177,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.5844,
           "rank": 96,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.00316772
@@ -5192,7 +5192,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 99.9833,
           "rank": 5996,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -5207,7 +5207,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 12.6712,
           "rank": 38,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.28438073
@@ -5266,7 +5266,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.2682,
           "rank": 137,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.0022245
@@ -5325,7 +5325,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.4516,
           "rank": 148,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.00200114
@@ -5384,7 +5384,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.7185,
           "rank": 164,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.00156625
@@ -5437,7 +5437,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.3856,
           "rank": 204,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.00106093
@@ -5496,7 +5496,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.6024,
           "rank": 217,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.00100033
@@ -5511,7 +5511,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 90.994,
           "rank": 5457,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.00500167
@@ -5570,7 +5570,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.6358,
           "rank": 219,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.00096868
@@ -5585,7 +5585,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.4373,
           "rank": 207,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -5638,7 +5638,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.8526,
           "rank": 232,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.0007654
@@ -5697,7 +5697,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.05,
           "rank": 4,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.02926829
@@ -5712,7 +5712,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.05,
           "rank": 4,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.02926829
@@ -5771,7 +5771,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.467,
           "rank": 29,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.00871249
@@ -5786,7 +5786,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.0691,
           "rank": 125,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -5801,7 +5801,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.0691,
           "rank": 125,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -5860,7 +5860,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.6504,
           "rank": 40,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.00643717
@@ -5919,7 +5919,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.0173,
           "rank": 62,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.00475248
@@ -5934,7 +5934,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 95.8973,
           "rank": 5751,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -5981,7 +5981,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.1841,
           "rank": 72,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.00428571
@@ -6034,7 +6034,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.551,
           "rank": 94,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.00320285
@@ -6049,7 +6049,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.6841,
           "rank": 42,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -6064,7 +6064,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.6841,
           "rank": 42,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -6111,7 +6111,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.7178,
           "rank": 104,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.0029347
@@ -6158,7 +6158,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.0514,
           "rank": 124,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.0025113
@@ -6173,7 +6173,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.5173,
           "rank": 32,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -6226,7 +6226,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.2181,
           "rank": 134,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.00228102
@@ -6279,7 +6279,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.5517,
           "rank": 154,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.00180072
@@ -6326,7 +6326,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.7352,
           "rank": 165,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.00156006
@@ -6341,7 +6341,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 89.3596,
           "rank": 5359,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.01716069
@@ -6394,7 +6394,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.0354,
           "rank": 183,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.00133124
@@ -6447,7 +6447,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.1855,
           "rank": 192,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.00119689
@@ -6494,7 +6494,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.5524,
           "rank": 214,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.00100806
@@ -6547,7 +6547,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.7358,
           "rank": 225,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.0008409
@@ -6594,7 +6594,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.0694,
           "rank": 245,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.00067351
@@ -6641,7 +6641,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.2195,
           "rank": 254,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.00056038
@@ -6656,7 +6656,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.4028,
           "rank": 145,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -6709,7 +6709,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.3696,
           "rank": 263,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.00042974
@@ -6724,7 +6724,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 95.0801,
           "rank": 5702,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.00021487
@@ -6777,7 +6777,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.5364,
           "rank": 273,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.0003363
@@ -6792,7 +6792,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 91.4109,
           "rank": 5482,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0042038
@@ -6839,7 +6839,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.6865,
           "rank": 282,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.00024722
@@ -6892,7 +6892,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.9867,
           "rank": 300,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.00011478
@@ -6907,7 +6907,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.1215,
           "rank": 248,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -6954,7 +6954,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.9006,
           "rank": 55,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.00522193
@@ -7013,7 +7013,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.2342,
           "rank": 75,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.00422982
@@ -7066,7 +7066,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.9847,
           "rank": 120,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.00262861
@@ -7119,7 +7119,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.3516,
           "rank": 142,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.00211611
@@ -7166,7 +7166,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.052,
           "rank": 184,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.00131901
@@ -7181,7 +7181,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.3502,
           "rank": 22,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -7196,7 +7196,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.3502,
           "rank": 22,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -7249,7 +7249,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.3689,
           "rank": 203,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.00107105
@@ -7296,7 +7296,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.1361,
           "rank": 249,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.00066689
@@ -7311,7 +7311,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 93.0454,
           "rank": 5580,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.00183394
@@ -7358,7 +7358,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.4696,
           "rank": 269,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.00036617
@@ -7405,7 +7405,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 5.1201,
           "rank": 308,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.0
@@ -7452,7 +7452,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 5.437,
           "rank": 327,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.0
@@ -7505,7 +7505,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 6.0874,
           "rank": 366,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.0
@@ -7552,7 +7552,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 6.4209,
           "rank": 386,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.0
@@ -7599,7 +7599,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 7.0714,
           "rank": 425,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.0
@@ -7646,7 +7646,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 7.3883,
           "rank": 444,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.0
@@ -7693,7 +7693,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 8.0387,
           "rank": 483,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.0
@@ -7708,7 +7708,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 6.541,
           "rank": 393,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -7755,7 +7755,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 8.3722,
           "rank": 503,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.0
@@ -7802,7 +7802,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 9.0227,
           "rank": 542,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.0
@@ -7817,7 +7817,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.4523,
           "rank": 208,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.6
@@ -7876,7 +7876,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 9.3396,
           "rank": 561,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.0
@@ -7935,7 +7935,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 9.99,
           "rank": 600,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.0
@@ -7994,7 +7994,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 5.0367,
           "rank": 303,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -8009,7 +8009,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.0,
           "rank": 1,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -8024,7 +8024,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.0,
           "rank": 1,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -8039,7 +8039,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.0,
           "rank": 1,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 1.0
@@ -8086,7 +8086,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 11.5911,
           "rank": 696,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -8145,7 +8145,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 14.8599,
           "rank": 892,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -8204,7 +8204,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 21.4143,
           "rank": 1285,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -8263,7 +8263,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 24.6831,
           "rank": 1481,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -8322,7 +8322,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 31.2208,
           "rank": 1873,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -8381,7 +8381,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 34.5063,
           "rank": 2070,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -8440,7 +8440,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 41.044,
           "rank": 2462,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -8499,7 +8499,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 44.3296,
           "rank": 2659,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -8558,7 +8558,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 50.8672,
           "rank": 3051,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -8617,7 +8617,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 54.1528,
           "rank": 3248,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -8676,7 +8676,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 60.6905,
           "rank": 3640,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -8735,7 +8735,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 63.976,
           "rank": 3837,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -8794,7 +8794,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 70.5137,
           "rank": 4229,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -8853,7 +8853,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 73.7992,
           "rank": 4426,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -8912,7 +8912,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 80.3369,
           "rank": 4818,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -8971,7 +8971,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 83.6057,
           "rank": 5014,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -9030,7 +9030,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 90.1601,
           "rank": 5407,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -9089,7 +9089,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 93.429,
           "rank": 5603,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -9148,7 +9148,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 99.9833,
           "rank": 5996,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -9163,7 +9163,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 11.3014,
           "rank": 34,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.25013734
@@ -9216,7 +9216,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.3504,
           "rank": 22,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -9231,7 +9231,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.3504,
           "rank": 22,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -9284,7 +9284,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.8677,
           "rank": 53,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -9331,7 +9331,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.3683,
           "rank": 83,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -9384,7 +9384,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.5518,
           "rank": 94,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -9443,7 +9443,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.7187,
           "rank": 104,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -9458,7 +9458,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.7187,
           "rank": 104,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -9511,7 +9511,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.8855,
           "rank": 114,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -9564,7 +9564,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.5864,
           "rank": 156,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -9617,7 +9617,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.7532,
           "rank": 166,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -9632,7 +9632,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.7532,
           "rank": 166,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -9679,7 +9679,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.9201,
           "rank": 176,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -9732,7 +9732,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.1036,
           "rank": 187,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -9747,7 +9747,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.1036,
           "rank": 187,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -9806,7 +9806,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.6209,
           "rank": 218,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -9859,7 +9859,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.7878,
           "rank": 228,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -9874,7 +9874,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.7878,
           "rank": 228,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -9927,7 +9927,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.9546,
           "rank": 238,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -9974,7 +9974,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.4719,
           "rank": 269,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -10021,7 +10021,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.6387,
           "rank": 279,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -10068,7 +10068,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.8223,
           "rank": 290,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -10083,7 +10083,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.8223,
           "rank": 290,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -10130,7 +10130,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.9892,
           "rank": 300,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -10145,7 +10145,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 98.3322,
           "rank": 5897,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -10192,7 +10192,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.1382,
           "rank": 249,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -10245,7 +10245,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 5.1727,
           "rank": 311,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -10292,7 +10292,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 5.5064,
           "rank": 331,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -10307,7 +10307,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 98.7992,
           "rank": 5925,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -10322,7 +10322,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 97.9486,
           "rank": 5874,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -10369,7 +10369,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 5.8568,
           "rank": 352,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -10416,7 +10416,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 6.8914,
           "rank": 414,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -10431,7 +10431,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 6.8914,
           "rank": 414,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 1.0
@@ -10446,7 +10446,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 98.7658,
           "rank": 5923,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -10499,7 +10499,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 7.2418,
           "rank": 435,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -10514,7 +10514,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.3676,
           "rank": 83,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -10573,7 +10573,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 7.9259,
           "rank": 476,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -10588,7 +10588,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.6191,
           "rank": 218,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.6
@@ -10647,7 +10647,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 8.2763,
           "rank": 497,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -10706,7 +10706,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 8.9605,
           "rank": 538,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -10765,7 +10765,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 9.3109,
           "rank": 559,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -10824,7 +10824,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 9.995,
           "rank": 600,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -10883,7 +10883,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 10.3454,
           "rank": 621,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 1.0
@@ -10942,7 +10942,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 17.2368,
           "rank": 1034,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 1.0
@@ -11001,7 +11001,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 20.6908,
           "rank": 1241,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 1.0
@@ -11060,7 +11060,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 27.5822,
           "rank": 1654,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 1.0
@@ -11119,7 +11119,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 31.0362,
           "rank": 1861,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 1.0
@@ -11178,7 +11178,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 37.9276,
           "rank": 2274,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 1.0
@@ -11237,7 +11237,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 41.3649,
           "rank": 2480,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 1.0
@@ -11296,7 +11296,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 44.819,
           "rank": 2687,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 1.0
@@ -11311,7 +11311,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.0674,
           "rank": 65,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.62903226
@@ -11370,7 +11370,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 48.273,
           "rank": 2894,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 1.0
@@ -11429,7 +11429,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 51.7103,
           "rank": 3100,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 1.0
@@ -11488,7 +11488,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 58.6184,
           "rank": 3514,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 1.0
@@ -11547,7 +11547,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 62.0557,
           "rank": 3720,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 1.0
@@ -11606,7 +11606,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 68.9471,
           "rank": 4133,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 1.0
@@ -11665,7 +11665,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 72.4011,
           "rank": 4340,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 1.0
@@ -11724,7 +11724,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 79.2925,
           "rank": 4753,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 1.0
@@ -11783,7 +11783,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 82.7465,
           "rank": 4960,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 1.0
@@ -11842,7 +11842,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 89.6379,
           "rank": 5373,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 1.0
@@ -11901,7 +11901,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 93.0919,
           "rank": 5580,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 1.0
@@ -11960,7 +11960,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 99.9833,
           "rank": 5993,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 1.0
@@ -11975,7 +11975,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 19.1781,
           "rank": 57,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.42673392
@@ -12028,7 +12028,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.0,
           "rank": 1,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -12043,7 +12043,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.0,
           "rank": 1,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -12096,7 +12096,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.517,
           "rank": 32,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -12149,7 +12149,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.6838,
           "rank": 42,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -12164,7 +12164,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.6838,
           "rank": 42,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -12217,7 +12217,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.8672,
           "rank": 53,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -12270,7 +12270,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.034,
           "rank": 63,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -12285,7 +12285,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.034,
           "rank": 63,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -12338,7 +12338,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.551,
           "rank": 94,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -12397,7 +12397,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.7178,
           "rank": 104,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -12412,7 +12412,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.7178,
           "rank": 104,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -12471,7 +12471,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.8846,
           "rank": 114,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -12530,7 +12530,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.068,
           "rank": 125,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -12545,7 +12545,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.068,
           "rank": 125,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -12604,7 +12604,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.4016,
           "rank": 145,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -12663,7 +12663,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.5851,
           "rank": 156,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -12722,7 +12722,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.7518,
           "rank": 166,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -12737,7 +12737,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.7518,
           "rank": 166,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -12796,7 +12796,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.9186,
           "rank": 176,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -12811,7 +12811,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.4696,
           "rank": 269,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.6
@@ -12870,7 +12870,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.1021,
           "rank": 187,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -12885,7 +12885,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.1021,
           "rank": 187,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -12944,7 +12944,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.4356,
           "rank": 207,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -13003,7 +13003,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.6191,
           "rank": 218,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -13018,7 +13018,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.9867,
           "rank": 300,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.6
@@ -13077,7 +13077,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.7859,
           "rank": 228,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -13092,7 +13092,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.7859,
           "rank": 228,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -13151,7 +13151,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.9526,
           "rank": 238,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -13210,7 +13210,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.1194,
           "rank": 248,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -13269,7 +13269,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.4696,
           "rank": 269,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -13328,7 +13328,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.6364,
           "rank": 279,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -13387,7 +13387,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.8199,
           "rank": 290,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -13402,7 +13402,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.8199,
           "rank": 290,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -13461,7 +13461,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.9867,
           "rank": 300,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 1.0
@@ -13520,7 +13520,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.1361,
           "rank": 249,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -13579,7 +13579,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 5.1701,
           "rank": 311,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -13638,7 +13638,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 5.8539,
           "rank": 352,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -13697,7 +13697,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 6.2041,
           "rank": 373,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -13756,7 +13756,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 6.8879,
           "rank": 414,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -13815,7 +13815,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 7.2382,
           "rank": 435,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -13874,7 +13874,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 7.9219,
           "rank": 476,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -13933,7 +13933,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 8.2722,
           "rank": 497,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -13992,7 +13992,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 8.956,
           "rank": 538,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -14051,7 +14051,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 9.3062,
           "rank": 559,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -14110,7 +14110,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 9.99,
           "rank": 600,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 1.0
@@ -14169,7 +14169,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 97.3316,
           "rank": 5837,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0049505
@@ -14216,7 +14216,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 97.515,
           "rank": 5848,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0030303
@@ -14263,7 +14263,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 97.5984,
           "rank": 5853,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.00205128
@@ -14310,7 +14310,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 97.6985,
           "rank": 5859,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -14325,7 +14325,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 96.7145,
           "rank": 5800,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -14372,7 +14372,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 97.7819,
           "rank": 5864,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -14419,7 +14419,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 97.8819,
           "rank": 5870,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -14466,7 +14466,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 98.0654,
           "rank": 5881,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -14513,7 +14513,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 98.1488,
           "rank": 5886,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -14560,7 +14560,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 98.4323,
           "rank": 5903,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -14607,7 +14607,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 98.6157,
           "rank": 5914,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -14654,7 +14654,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 98.6991,
           "rank": 5919,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -14701,7 +14701,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 98.8826,
           "rank": 5930,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -14754,7 +14754,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 98.9827,
           "rank": 5936,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -14801,7 +14801,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 99.1661,
           "rank": 5947,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -14848,7 +14848,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 99.2495,
           "rank": 5952,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -14895,7 +14895,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 99.433,
           "rank": 5963,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -14942,7 +14942,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 99.533,
           "rank": 5969,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -14989,7 +14989,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 99.7165,
           "rank": 5980,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -15036,7 +15036,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 99.7999,
           "rank": 5985,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -15077,7 +15077,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 99.9833,
           "rank": 5996,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -15118,7 +15118,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.0,
           "rank": 1,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 1.0
@@ -15171,7 +15171,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.0167,
           "rank": 2,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.84210526
@@ -15230,7 +15230,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.0334,
           "rank": 3,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.76829268
@@ -15245,7 +15245,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.0334,
           "rank": 3,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.76829268
@@ -15304,7 +15304,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.3669,
           "rank": 23,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.6625
@@ -15363,7 +15363,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.5504,
           "rank": 34,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.65
@@ -15422,7 +15422,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.7171,
           "rank": 44,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.63888889
@@ -15437,7 +15437,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.7171,
           "rank": 44,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.63888889
@@ -15496,7 +15496,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.8839,
           "rank": 54,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.63529412
@@ -15555,7 +15555,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.0507,
           "rank": 64,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.63157895
@@ -15614,7 +15614,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.4009,
           "rank": 85,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.625
@@ -15629,7 +15629,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.4009,
           "rank": 85,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.625
@@ -15688,7 +15688,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.5677,
           "rank": 95,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.62162162
@@ -15747,7 +15747,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.9179,
           "rank": 116,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.61904762
@@ -15806,7 +15806,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.0847,
           "rank": 126,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.61702128
@@ -15865,7 +15865,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.4183,
           "rank": 146,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.61538462
@@ -15924,7 +15924,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.6017,
           "rank": 157,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.61428571
@@ -15983,7 +15983,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.9353,
           "rank": 177,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.61111111
@@ -16042,7 +16042,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.1021,
           "rank": 187,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.6091954
@@ -16101,7 +16101,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.9693,
           "rank": 239,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.6
@@ -16160,7 +16160,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.1361,
           "rank": 249,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.6
@@ -16219,7 +16219,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.6531,
           "rank": 280,
-          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 5%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_5_non_l4",
           "selection_label": "倒数 0-5%，非 L4",
           "value": 0.6
@@ -16278,7 +16278,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.7512,
           "rank": 106,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.62
@@ -16337,7 +16337,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.1014,
           "rank": 127,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.61702128
@@ -16396,7 +16396,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.7852,
           "rank": 168,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.61290323
@@ -16455,7 +16455,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.1187,
           "rank": 188,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.60869565
@@ -16514,7 +16514,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.8025,
           "rank": 229,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.6
@@ -16573,7 +16573,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.1528,
           "rank": 250,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.6
@@ -16632,7 +16632,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.8366,
           "rank": 291,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.6
@@ -16691,7 +16691,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 5.1868,
           "rank": 312,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.6
@@ -16750,7 +16750,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 5.8706,
           "rank": 353,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.6
@@ -16809,7 +16809,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 6.2208,
           "rank": 374,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.6
@@ -16868,7 +16868,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 6.9046,
           "rank": 415,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.6
@@ -16927,7 +16927,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 7.2382,
           "rank": 435,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.6
@@ -16986,7 +16986,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 7.9219,
           "rank": 476,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.6
@@ -17045,7 +17045,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 8.2722,
           "rank": 497,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.6
@@ -17104,7 +17104,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 8.956,
           "rank": 538,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.6
@@ -17163,7 +17163,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 9.3062,
           "rank": 559,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.6
@@ -17222,7 +17222,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 9.99,
           "rank": 600,
-          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 30 条。",
+          "selection_description": "先按全部正式数值取质量倒数前 10%，再排除 L4，最多 20 条。",
           "selection_id": "tail_0_10_non_l4",
           "selection_label": "倒数 0-10%，非 L4",
           "value": 0.6
@@ -17281,7 +17281,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 88.1421,
           "rank": 5286,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.08340558
@@ -17334,7 +17334,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 88.9593,
           "rank": 5335,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.02254733
@@ -17381,7 +17381,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 90.1768,
           "rank": 5408,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.00976595
@@ -17428,7 +17428,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 90.5937,
           "rank": 5433,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.00724638
@@ -17475,7 +17475,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 91.8112,
           "rank": 5506,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.00369934
@@ -17522,7 +17522,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 92.6284,
           "rank": 5555,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.00234911
@@ -17569,7 +17569,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 93.8626,
           "rank": 5629,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.00114068
@@ -17628,7 +17628,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 94.2628,
           "rank": 5653,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.00083361
@@ -17675,7 +17675,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 94.6798,
           "rank": 5678,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.00050017
@@ -17690,7 +17690,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 6.8493,
           "rank": 21,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.13085514
@@ -17743,7 +17743,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 95.497,
           "rank": 5727,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -17790,7 +17790,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 97.5317,
           "rank": 5849,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -17837,7 +17837,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 99.1661,
           "rank": 5947,
-          "selection_description": "仅该指标评为 L0 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L0 的结果，最多 20 条。",
           "selection_id": "l0",
           "selection_label": "纯 L0",
           "value": 0.0
@@ -17878,7 +17878,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 0.0,
           "rank": 1,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.00470667
@@ -17931,7 +17931,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 1.3699,
           "rank": 5,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.0357207
@@ -17984,7 +17984,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 2.3973,
           "rank": 8,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.06406038
@@ -18037,7 +18037,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 3.7671,
           "rank": 12,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.08414611
@@ -18090,7 +18090,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 4.4521,
           "rank": 14,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.09590444
@@ -18143,7 +18143,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 5.8219,
           "rank": 18,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.12231375
@@ -18196,7 +18196,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 8.2192,
           "rank": 25,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.18592275
@@ -18249,7 +18249,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 8.9041,
           "rank": 27,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.19878706
@@ -18302,7 +18302,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 10.274,
           "rank": 31,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.22861008
@@ -18355,7 +18355,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 13.3562,
           "rank": 40,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.30550737
@@ -18408,7 +18408,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 14.726,
           "rank": 44,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.32997142
@@ -18461,7 +18461,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 15.7534,
           "rank": 47,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.35615046
@@ -18514,7 +18514,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 17.1233,
           "rank": 51,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.39802632
@@ -18567,7 +18567,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 17.8082,
           "rank": 53,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.40729534
@@ -18620,7 +18620,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 20.2055,
           "rank": 60,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.45206862
@@ -18673,7 +18673,7 @@
           "percentile_start": 0.0,
           "quality_percentile": 21.5753,
           "rank": 64,
-          "selection_description": "仅该指标评为 L4 的结果，最多 30 条。",
+          "selection_description": "仅该指标评为 L4 的结果，最多 20 条。",
           "selection_id": "l4",
           "selection_label": "纯 L4",
           "value": 0.49708285
