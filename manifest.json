@@ -2,8 +2,10 @@
   "episode_count": 20,
   "files": {
     "data": "review.json",
+    "episode_data": "episodes/",
     "html": "index.html",
-    "media": "media/"
+    "media": "media/",
+    "posters": "posters/"
   },
   "metric_ids": [
     "V1",
@@ -21,7 +23,11 @@
     "X4",
     "X5"
   ],
-  "schema_version": "1.0",
+  "pages_package": {
+    "file_count": 93,
+    "total_bytes": 26024599
+  },
+  "schema_version": "1.1",
   "sources": [
     "egodex_20_results"
   ],
