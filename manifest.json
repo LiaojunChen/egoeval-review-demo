@@ -1,5 +1,5 @@
 {
-  "episode_count": 390,
+  "episode_count": 360,
   "files": {
     "data": "review.json",
     "episode_data": "episodes/",
@@ -12,16 +12,16 @@
     "reason": "raw audit videos exceed GitHub Pages limits"
   },
   "metric_ids": [
+    "C1",
+    "C2",
     "M1",
     "M2",
     "M3",
-    "M4",
-    "C1",
-    "C2"
+    "M4"
   ],
   "pages_package": {
-    "file_count": 785,
-    "total_bytes": 34418879
+    "file_count": 726,
+    "total_bytes": 37967455
   },
   "schema_version": "1.2",
   "sources": [
@@ -36,6 +36,6 @@
     "xjgt_sample",
     "xperience-10m"
   ],
-  "title": "指标倒数百分位人工审计 Review（非 VLM）",
+  "title": "四类样本超参人工审计 Review（含 VLM 检测）",
   "vote_storage": "browser-local-export"
 }

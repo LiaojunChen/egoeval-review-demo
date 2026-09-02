@@ -1,0 +1,14 @@
+{
+  "endpoint": "https://llm-2hp7ozolnqlq5204.cn-beijing.maas.aliyuncs.com/compatible-mode/v1",
+  "episodes": 90,
+  "failed_or_unavailable": 0,
+  "kinds": [
+    "instruction_video"
+  ],
+  "model": "qwen3-vl-8b-instruct",
+  "range": [
+    270,
+    360
+  ],
+  "successful": 90
+}
