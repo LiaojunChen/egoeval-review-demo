@@ -1,35 +1,41 @@
 {
-  "episode_count": 20,
+  "episode_count": 390,
   "files": {
     "data": "review.json",
     "episode_data": "episodes/",
     "html": "index.html",
-    "media": "media/",
-    "posters": "posters/"
+    "posters": "posters/",
+    "vote_items": "vote_items.json"
+  },
+  "media": {
+    "mode": "omitted",
+    "reason": "raw audit videos exceed GitHub Pages limits"
   },
   "metric_ids": [
-    "V1",
-    "V2",
     "M1",
     "M2",
     "M3",
     "M4",
     "C1",
-    "C2",
-    "C3",
-    "X1",
-    "X2",
-    "X3",
-    "X4",
-    "X5"
+    "C2"
   ],
   "pages_package": {
-    "file_count": 93,
-    "total_bytes": 26024599
+    "file_count": 785,
+    "total_bytes": 34418879
   },
-  "schema_version": "1.1",
+  "schema_version": "1.2",
   "sources": [
-    "egodex_20_results"
+    "egoscale_sample",
+    "egoverse",
+    "jinglianwen_260727_sample",
+    "jinglianwen_sample",
+    "uDas_sample",
+    "vitra_ssv2",
+    "wenyuan_sample",
+    "wuwen_sample",
+    "xjgt_sample",
+    "xperience-10m"
   ],
-  "title": "EgoEval 20 Episode Review Demo"
+  "title": "指标倒数百分位人工审计 Review（非 VLM）",
+  "vote_storage": "browser-local-export"
 }

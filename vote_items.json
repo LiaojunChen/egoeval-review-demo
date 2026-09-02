@@ -1,0 +1,529 @@
+[
+  {
+    "item_id": "s2.camera_translation_m_per_frame",
+    "path": "s2.camera_translation_m_per_frame",
+    "label": "s2.camera_translation_m_per_frame",
+    "value": 0.2,
+    "value_display": "0.2",
+    "metric_ids": [
+      "M1"
+    ],
+    "metrics": [
+      "M1 硬速度阈值超限步占比"
+    ]
+  },
+  {
+    "item_id": "s2.hand_translation_m_per_frame",
+    "path": "s2.hand_translation_m_per_frame",
+    "label": "s2.hand_translation_m_per_frame",
+    "value": 0.3,
+    "value_display": "0.3",
+    "metric_ids": [
+      "M1"
+    ],
+    "metrics": [
+      "M1 硬速度阈值超限步占比"
+    ]
+  },
+  {
+    "item_id": "s2.camera_rotation_deg_per_frame",
+    "path": "s2.camera_rotation_deg_per_frame",
+    "label": "s2.camera_rotation_deg_per_frame",
+    "value": 28.0,
+    "value_display": "28",
+    "metric_ids": [
+      "M1"
+    ],
+    "metrics": [
+      "M1 硬速度阈值超限步占比"
+    ]
+  },
+  {
+    "item_id": "s2.m1_continuous_exceedance_transitions",
+    "path": "s2.m1_continuous_exceedance_transitions",
+    "label": "s2.m1_continuous_exceedance_transitions",
+    "value": 2,
+    "value_display": "2",
+    "metric_ids": [
+      "M1"
+    ],
+    "metrics": [
+      "M1 硬速度阈值超限步占比"
+    ]
+  },
+  {
+    "item_id": "s2.sal_p20",
+    "path": "s2.sal_p20",
+    "label": "s2.sal_p20",
+    "value": -17.75,
+    "value_display": "-17.75",
+    "metric_ids": [
+      "M2"
+    ],
+    "metrics": [
+      "M2 平滑度合格窗口比例"
+    ]
+  },
+  {
+    "item_id": "s2.jerk_threshold",
+    "path": "s2.jerk_threshold",
+    "label": "s2.jerk_threshold",
+    "value": null,
+    "value_display": "未设置",
+    "metric_ids": [
+      "M2"
+    ],
+    "metrics": [
+      "M2 平滑度合格窗口比例"
+    ]
+  },
+  {
+    "item_id": "s2.smooth_window_seconds",
+    "path": "s2.smooth_window_seconds",
+    "label": "s2.smooth_window_seconds",
+    "value": 1.0,
+    "value_display": "1",
+    "metric_ids": [
+      "M2"
+    ],
+    "metrics": [
+      "M2 平滑度合格窗口比例"
+    ]
+  },
+  {
+    "item_id": "s2.continuity_z_threshold",
+    "path": "s2.continuity_z_threshold",
+    "label": "s2.continuity_z_threshold",
+    "value": 20.0,
+    "value_display": "20",
+    "metric_ids": [
+      "M3"
+    ],
+    "metrics": [
+      "M3 轨迹连续性异常步占比"
+    ]
+  },
+  {
+    "item_id": "s2.m3_level_boundaries",
+    "path": "s2.m3_level_boundaries",
+    "label": "s2.m3_level_boundaries",
+    "value": [
+      0.005,
+      0.03,
+      0.5,
+      1.01
+    ],
+    "value_display": "[0.005,0.03,0.5,1.01]",
+    "metric_ids": [
+      "M3"
+    ],
+    "metrics": [
+      "M3 轨迹连续性异常步占比"
+    ]
+  },
+  {
+    "item_id": "s2.idle_speed_m_per_frame",
+    "path": "s2.idle_speed_m_per_frame",
+    "label": "s2.idle_speed_m_per_frame",
+    "value": 0.001,
+    "value_display": "0.001",
+    "metric_ids": [
+      "M4"
+    ],
+    "metrics": [
+      "M4 操作窗口空闲率"
+    ]
+  },
+  {
+    "item_id": "s2.idle_visual_mad",
+    "path": "s2.idle_visual_mad",
+    "label": "s2.idle_visual_mad",
+    "value": 0.5,
+    "value_display": "0.5",
+    "metric_ids": [
+      "M4"
+    ],
+    "metrics": [
+      "M4 操作窗口空闲率"
+    ]
+  },
+  {
+    "item_id": "s2.idle_visual_width",
+    "path": "s2.idle_visual_width",
+    "label": "s2.idle_visual_width",
+    "value": 96,
+    "value_display": "96",
+    "metric_ids": [
+      "M4"
+    ],
+    "metrics": [
+      "M4 操作窗口空闲率"
+    ]
+  },
+  {
+    "item_id": "s3.valid_hand_confidence",
+    "path": "s3.valid_hand_confidence",
+    "label": "s3.valid_hand_confidence",
+    "value": 0.1,
+    "value_display": "0.1",
+    "metric_ids": [
+      "C2"
+    ],
+    "metrics": [
+      "C2 有效手帧比例"
+    ]
+  },
+  {
+    "item_id": "s2.fps",
+    "path": "s2.fps",
+    "label": "s2.fps",
+    "value": 30,
+    "value_display": "30",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "s2.require_ted_evidence_contract",
+    "path": "s2.require_ted_evidence_contract",
+    "label": "s2.require_ted_evidence_contract",
+    "value": true,
+    "value_display": "是",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "s2.continuity_z_thresholds",
+    "path": "s2.continuity_z_thresholds",
+    "label": "s2.continuity_z_thresholds",
+    "value": [
+      8.0,
+      10.0,
+      12.0,
+      14.0,
+      16.0,
+      20.0
+    ],
+    "value_display": "[8.0,10.0,12.0,14.0,16.0,20.0]",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "s2.idle_rate_boundaries",
+    "path": "s2.idle_rate_boundaries",
+    "label": "s2.idle_rate_boundaries",
+    "value": [
+      0.1,
+      0.2,
+      0.4,
+      0.8
+    ],
+    "value_display": "[0.1,0.2,0.4,0.8]",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "s2.require_idle_explanation_for_l3",
+    "path": "s2.require_idle_explanation_for_l3",
+    "label": "s2.require_idle_explanation_for_l3",
+    "value": false,
+    "value_display": "否",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "s3.require_structured_fields",
+    "path": "s3.require_structured_fields",
+    "label": "s3.require_structured_fields",
+    "value": true,
+    "value_display": "是",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "s4.action_column",
+    "path": "s4.action_column",
+    "label": "s4.action_column",
+    "value": "action",
+    "value_display": "action",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "s4.action_state_column",
+    "path": "s4.action_state_column",
+    "label": "s4.action_state_column",
+    "value": "observation.state",
+    "value_display": "observation.state",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "s4.require_formal_evidence_contract",
+    "path": "s4.require_formal_evidence_contract",
+    "label": "s4.require_formal_evidence_contract",
+    "value": true,
+    "value_display": "是",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "s4.require_operation_frame_evidence",
+    "path": "s4.require_operation_frame_evidence",
+    "label": "s4.require_operation_frame_evidence",
+    "value": true,
+    "value_display": "是",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "s4.max_lag_frames",
+    "path": "s4.max_lag_frames",
+    "label": "s4.max_lag_frames",
+    "value": 15,
+    "value_display": "15",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "s4.drift_tolerance_frames",
+    "path": "s4.drift_tolerance_frames",
+    "label": "s4.drift_tolerance_frames",
+    "value": 30,
+    "value_display": "30",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "s4.drift_min_segment_correlation",
+    "path": "s4.drift_min_segment_correlation",
+    "label": "s4.drift_min_segment_correlation",
+    "value": 0.85,
+    "value_display": "0.85",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "s4.lag_level_boundaries",
+    "path": "s4.lag_level_boundaries",
+    "label": "s4.lag_level_boundaries",
+    "value": [
+      1,
+      4,
+      8,
+      15
+    ],
+    "value_display": "[1,4,8,15]",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "s4.require_lag_compensation_for_l3",
+    "path": "s4.require_lag_compensation_for_l3",
+    "label": "s4.require_lag_compensation_for_l3",
+    "value": false,
+    "value_display": "否",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "s4.min_lag_correlation",
+    "path": "s4.min_lag_correlation",
+    "label": "s4.min_lag_correlation",
+    "value": 0.1,
+    "value_display": "0.1",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "s4.lag_resize_width",
+    "path": "s4.lag_resize_width",
+    "label": "s4.lag_resize_width",
+    "value": 96,
+    "value_display": "96",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "s4.direction_epsilon",
+    "path": "s4.direction_epsilon",
+    "label": "s4.direction_epsilon",
+    "value": 1e-06,
+    "value_display": "1e-06",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "s4.require_structured_fields",
+    "path": "s4.require_structured_fields",
+    "label": "s4.require_structured_fields",
+    "value": true,
+    "value_display": "是",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "s4.run_x2_estimate",
+    "path": "s4.run_x2_estimate",
+    "label": "s4.run_x2_estimate",
+    "value": true,
+    "value_display": "是",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "s4.x2_estimate.resize_width",
+    "path": "s4.x2_estimate.resize_width",
+    "label": "s4.x2_estimate.resize_width",
+    "value": 320,
+    "value_display": "320",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "s4.x2_estimate.sample_every",
+    "path": "s4.x2_estimate.sample_every",
+    "label": "s4.x2_estimate.sample_every",
+    "value": 30,
+    "value_display": "30",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "s4.x2_estimate.max_samples",
+    "path": "s4.x2_estimate.max_samples",
+    "label": "s4.x2_estimate.max_samples",
+    "value": 24,
+    "value_display": "24",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "s4.x2_estimate.roi_padding_px",
+    "path": "s4.x2_estimate.roi_padding_px",
+    "label": "s4.x2_estimate.roi_padding_px",
+    "value": 36,
+    "value_display": "36",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "s4.x2_estimate.color_quantile",
+    "path": "s4.x2_estimate.color_quantile",
+    "label": "s4.x2_estimate.color_quantile",
+    "value": 0.9,
+    "value_display": "0.9",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "s4.x2_estimate.color_scale",
+    "path": "s4.x2_estimate.color_scale",
+    "label": "s4.x2_estimate.color_scale",
+    "value": 1.25,
+    "value_display": "1.25",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "s4.x2_estimate.minimum_color_distance",
+    "path": "s4.x2_estimate.minimum_color_distance",
+    "label": "s4.x2_estimate.minimum_color_distance",
+    "value": 18.0,
+    "value_display": "18",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "s4.x2_estimate.level_boundaries",
+    "path": "s4.x2_estimate.level_boundaries",
+    "label": "s4.x2_estimate.level_boundaries",
+    "value": [
+      0.35,
+      0.28,
+      0.2,
+      0.1
+    ],
+    "value_display": "[0.35,0.28,0.2,0.1]",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "s4.run_sam_proxy",
+    "path": "s4.run_sam_proxy",
+    "label": "s4.run_sam_proxy",
+    "value": false,
+    "value_display": "否",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "grading.score_quantiles",
+    "path": "grading.score_quantiles",
+    "label": "grading.score_quantiles",
+    "value": [
+      0.1,
+      0.35,
+      0.6,
+      0.8
+    ],
+    "value_display": "[0.1,0.35,0.6,0.8]",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "grading.minimum_coverage",
+    "path": "grading.minimum_coverage",
+    "label": "grading.minimum_coverage",
+    "value": 0.25,
+    "value_display": "0.25",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "grading.restricted_is_eligible",
+    "path": "grading.restricted_is_eligible",
+    "label": "grading.restricted_is_eligible",
+    "value": true,
+    "value_display": "是",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "video.decoder_backend",
+    "path": "video.decoder_backend",
+    "label": "video.decoder_backend",
+    "value": "auto",
+    "value_display": "auto",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "video.feature_cache_dir",
+    "path": "video.feature_cache_dir",
+    "label": "video.feature_cache_dir",
+    "value": null,
+    "value_display": "未设置",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "video.feature_widths",
+    "path": "video.feature_widths",
+    "label": "video.feature_widths",
+    "value": [
+      96
+    ],
+    "value_display": "[96]",
+    "metric_ids": [],
+    "metrics": []
+  },
+  {
+    "item_id": "video.force_recompute",
+    "path": "video.force_recompute",
+    "label": "video.force_recompute",
+    "value": false,
+    "value_display": "否",
+    "metric_ids": [],
+    "metrics": []
+  }
+]
