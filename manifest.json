@@ -38,5 +38,6 @@
     "xperience-10m"
   ],
   "title": "四类样本超参人工审计 Review（单 VLM 评测，当前等级）",
-  "vote_storage": "browser-local-export"
+  "vote_storage": "browser-local-export",
+  "audit_policy": "strict metric-level filtering; tail supplements prioritize L3/L2/L1 before L0 and never include L4 in non-L4 queues"
 }
