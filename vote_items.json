@@ -1,8 +1,8 @@
 [
   {
-    "item_id": "s2.camera_translation_m_per_frame",
+    "item_id": "M1::s2.camera_translation_m_per_frame",
     "path": "s2.camera_translation_m_per_frame",
-    "label": "s2.camera_translation_m_per_frame",
+    "label": "M1 · s2.camera_translation_m_per_frame",
     "value": 0.2,
     "value_display": "0.2",
     "metric_ids": [
@@ -13,9 +13,9 @@
     ]
   },
   {
-    "item_id": "s2.hand_translation_m_per_frame",
+    "item_id": "M1::s2.hand_translation_m_per_frame",
     "path": "s2.hand_translation_m_per_frame",
-    "label": "s2.hand_translation_m_per_frame",
+    "label": "M1 · s2.hand_translation_m_per_frame",
     "value": 0.3,
     "value_display": "0.3",
     "metric_ids": [
@@ -26,9 +26,9 @@
     ]
   },
   {
-    "item_id": "s2.camera_rotation_deg_per_frame",
+    "item_id": "M1::s2.camera_rotation_deg_per_frame",
     "path": "s2.camera_rotation_deg_per_frame",
-    "label": "s2.camera_rotation_deg_per_frame",
+    "label": "M1 · s2.camera_rotation_deg_per_frame",
     "value": 28.0,
     "value_display": "28",
     "metric_ids": [
@@ -39,9 +39,9 @@
     ]
   },
   {
-    "item_id": "s2.m1_continuous_exceedance_transitions",
+    "item_id": "M1::s2.m1_continuous_exceedance_transitions",
     "path": "s2.m1_continuous_exceedance_transitions",
-    "label": "s2.m1_continuous_exceedance_transitions",
+    "label": "M1 · s2.m1_continuous_exceedance_transitions",
     "value": 2,
     "value_display": "2",
     "metric_ids": [
@@ -52,9 +52,9 @@
     ]
   },
   {
-    "item_id": "s2.sal_p20",
+    "item_id": "M2::s2.sal_p20",
     "path": "s2.sal_p20",
-    "label": "s2.sal_p20",
+    "label": "M2 · s2.sal_p20",
     "value": -17.75,
     "value_display": "-17.75",
     "metric_ids": [
@@ -65,9 +65,9 @@
     ]
   },
   {
-    "item_id": "s2.jerk_threshold",
+    "item_id": "M2::s2.jerk_threshold",
     "path": "s2.jerk_threshold",
-    "label": "s2.jerk_threshold",
+    "label": "M2 · s2.jerk_threshold",
     "value": null,
     "value_display": "未设置",
     "metric_ids": [
@@ -78,9 +78,9 @@
     ]
   },
   {
-    "item_id": "s2.smooth_window_seconds",
+    "item_id": "M2::s2.smooth_window_seconds",
     "path": "s2.smooth_window_seconds",
-    "label": "s2.smooth_window_seconds",
+    "label": "M2 · s2.smooth_window_seconds",
     "value": 1.0,
     "value_display": "1",
     "metric_ids": [
@@ -91,9 +91,9 @@
     ]
   },
   {
-    "item_id": "s2.continuity_z_threshold",
+    "item_id": "M3::s2.continuity_z_threshold",
     "path": "s2.continuity_z_threshold",
-    "label": "s2.continuity_z_threshold",
+    "label": "M3 · s2.continuity_z_threshold",
     "value": 20.0,
     "value_display": "20",
     "metric_ids": [
@@ -104,9 +104,9 @@
     ]
   },
   {
-    "item_id": "s2.m3_level_boundaries",
+    "item_id": "M3::s2.m3_level_boundaries",
     "path": "s2.m3_level_boundaries",
-    "label": "s2.m3_level_boundaries",
+    "label": "M3 · s2.m3_level_boundaries",
     "value": [
       0.005,
       0.03,
@@ -122,9 +122,9 @@
     ]
   },
   {
-    "item_id": "s2.idle_speed_m_per_frame",
+    "item_id": "M4::s2.idle_speed_m_per_frame",
     "path": "s2.idle_speed_m_per_frame",
-    "label": "s2.idle_speed_m_per_frame",
+    "label": "M4 · s2.idle_speed_m_per_frame",
     "value": 0.001,
     "value_display": "0.001",
     "metric_ids": [
@@ -135,9 +135,9 @@
     ]
   },
   {
-    "item_id": "s2.idle_visual_mad",
+    "item_id": "M4::s2.idle_visual_mad",
     "path": "s2.idle_visual_mad",
-    "label": "s2.idle_visual_mad",
+    "label": "M4 · s2.idle_visual_mad",
     "value": 0.5,
     "value_display": "0.5",
     "metric_ids": [
@@ -148,9 +148,9 @@
     ]
   },
   {
-    "item_id": "s2.idle_visual_width",
+    "item_id": "M4::s2.idle_visual_width",
     "path": "s2.idle_visual_width",
-    "label": "s2.idle_visual_width",
+    "label": "M4 · s2.idle_visual_width",
     "value": 96,
     "value_display": "96",
     "metric_ids": [
@@ -161,9 +161,9 @@
     ]
   },
   {
-    "item_id": "s3.valid_hand_confidence",
+    "item_id": "C2::s3.valid_hand_confidence",
     "path": "s3.valid_hand_confidence",
-    "label": "s3.valid_hand_confidence",
+    "label": "C2 · s3.valid_hand_confidence",
     "value": 0.1,
     "value_display": "0.1",
     "metric_ids": [
